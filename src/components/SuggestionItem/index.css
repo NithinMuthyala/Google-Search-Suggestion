@@ -1,0 +1,17 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.text-suggestion {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+.arrow-icon {
+  height: 25px;
+  width: 25px;
+  align-self: center;
+  margin-right: 34px;
+}
